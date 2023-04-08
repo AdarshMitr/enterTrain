@@ -12,7 +12,7 @@
 
 }
 
-@media(max-width:700px){
+@media(max-width:500px){
     .app{
         padding-top: 70px;
     }
